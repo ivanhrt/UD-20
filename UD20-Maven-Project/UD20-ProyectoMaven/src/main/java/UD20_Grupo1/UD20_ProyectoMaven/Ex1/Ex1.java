@@ -1,4 +1,4 @@
-package UD20_Grupo1.UD20_ProyectoMaven;
+package UD20_Grupo1.UD20_ProyectoMaven.Ex1;
 
 import java.awt.EventQueue;
 
