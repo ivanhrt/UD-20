@@ -70,11 +70,11 @@ public class Ex3MainApp {
 		btnNewButton.setBounds(30, 50, 89, 23);
 		frmVentanaConMs.getContentPane().add(btnNewButton);
 		
-		JButton btnBoton = new JButton("Boton 2");
+		JButton btnBoton = new JButton("Botón 2");
 		btnBoton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				contBtn2++;
-				lblNewLabel_1.setText("Boton 2: "+contBtn2+" veces");
+				lblNewLabel_1.setText("Botón 2: "+contBtn2+" veces");
 			}
 		});
 		btnBoton.setBounds(223, 50, 89, 23);
