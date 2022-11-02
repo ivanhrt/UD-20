@@ -1,4 +1,4 @@
-package Ex5;
+package UD20_Grupo1.UD20_ProyectoMaven.Ex5;
 
 import java.awt.EventQueue;
 

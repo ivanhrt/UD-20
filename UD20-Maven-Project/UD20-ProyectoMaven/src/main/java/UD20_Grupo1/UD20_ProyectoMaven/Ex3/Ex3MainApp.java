@@ -1,4 +1,4 @@
-package Ex3;
+package UD20_Grupo1.UD20_ProyectoMaven.Ex3;
 
 import java.awt.EventQueue;
 
