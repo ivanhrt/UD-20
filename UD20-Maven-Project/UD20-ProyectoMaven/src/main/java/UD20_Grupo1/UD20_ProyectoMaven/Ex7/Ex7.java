@@ -1,4 +1,4 @@
-package UD20_Grupo1.UD20_ProyectoMaven;
+package UD20_Grupo1.UD20_ProyectoMaven.Ex7;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

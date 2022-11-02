@@ -1,4 +1,4 @@
-package UD20_Grupo1.UD20_ProyectoMaven;
+package UD20_Grupo1.UD20_ProyectoMaven.Ex8;
 
 import java.awt.event.*;
 import javax.swing.*;
